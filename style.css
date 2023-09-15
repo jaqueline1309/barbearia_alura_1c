@@ -4,5 +4,9 @@ body {
 p {
     text-align: center;
 }
+em strong {
+    color: rgba(255, 0, 149, 0.247)
+}
+
 
 
