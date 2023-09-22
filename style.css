@@ -3,11 +3,12 @@ body {
 }
 #banner {
     width: 100%;
+}   
 p {
     text-align: center;
 }
 em strong {
-    color: rgba(255, 0, 149, 0.247)
+    color: rgb(255, 0, 0)
 }
 
 
