@@ -4,14 +4,24 @@ body {
 .principal {
   background: #ccccc;
   padding: 30px;
+}
 #banner {
     width: 100%;
-}   
+}  
+h1 {
+} 
 p {
     text-align: center;
 }
 em strong {
+    #missão{
+        font-size: 20px;
+    }
+    em strong {
     color: rgb(255, 0, 0)
+}
+.itens {
+    font-style: italic;
 }
 
 
